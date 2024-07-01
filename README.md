@@ -1,2 +1,2 @@
 # demo
-thus is a demo repository
+thus is a demo repository...
